@@ -1,4 +1,4 @@
-google_maps_API
+googlemaps_API
 
 Google Maps API that pulls JSON data, set for USDA API.
 
